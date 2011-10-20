@@ -3,10 +3,10 @@ SpreeI18nCountry
 
 This Spree extension adds translations for the country select box in the checkout process. Currently the following locales are supported:
 
-* English (`:en`)
-* German (`:de`)
-* French (`:fr-FR`)
-* Spanish (`:es`)
+* English (`en`)
+* German (`de`)
+* French (`fr`)
+* Spanish (`es`)
 
 Installation
 ============
